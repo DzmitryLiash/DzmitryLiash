@@ -6,21 +6,9 @@ implementation, user interface design patterns and principles, writing unit test
 
 Tech stack:
 
-iOS, tvOS;
-Swift;
-Xcode;
-Combine, RxSwift, GCD;
-MVC, MVVM, MVP, VIPER, CleanSwift;
-UIKit, SwiftUI;
-TinyConstraints, SnapKit;
-Realm, Firebase, CoreData;
-REST, GraphQL;
-Fastlane, TestFlight distribution;
-CocoaPods, SPM, Carthage;
-SwiftGen, SwiftLint, SwiftFormat;
-CI/CD;
-XCTest;
-Git.
+iOS | tvOS | Swift | Xcode | Combine | RxSwift | GCD | MVC | MVVM | MVP | VIPER | CleanSwift | UIKit | SwiftUI |
+TinyConstraints | SnapKit | Realm | Firebase | CoreData | REST | GraphQL | Fastlane | TestFlight distribution | 
+CocoaPods | SPM | Carthage | SwiftGen | SwiftLint | SwiftFormat | CI/CD | XCTest | Git 
 
 <!--
 **DzmitryLiash/DzmitryLiash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
