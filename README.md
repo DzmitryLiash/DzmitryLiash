@@ -6,7 +6,7 @@
 I've been involved in many aspects of creating and maintaining applications, such as analysis, 
 implementation, user interface design patterns and principles, writing unit tests, code reviews and etc.
 
-:hammer_and_wrench: Tech stack:
+### :hammer_and_wrench: Tech stack
 
 iOS | tvOS | Swift | Xcode | Combine | RxSwift | GCD | MVC | MVVM | MVP | VIPER | CleanSwift | UIKit | SwiftUI | TinyConstraints | SnapKit | Realm | Firebase | CoreData | REST | GraphQL | Fastlane | TestFlight distribution | CocoaPods | SPM | Carthage | SwiftGen | SwiftLint | SwiftFormat | CI/CD | XCTest | Git 
 
